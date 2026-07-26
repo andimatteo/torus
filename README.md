@@ -15,3 +15,7 @@ trying to impress anyone. But be advised, only the parametric
 equations of a torus are not enough :) ).
 
 During the course might come back to fix some stuff.
+
+Here's a video demo:
+
+![video](./assets/demo.mov)
