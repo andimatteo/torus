@@ -18,4 +18,5 @@ During the course might come back to fix some stuff.
 
 Here's a video demo:
 
-![video](./assets/demo.mov)
+https://github.com/user-attachments/assets/b64bbe2c-6094-4a8a-8a17-003b6261b636
+
