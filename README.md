@@ -18,5 +18,4 @@ During the course might come back to fix some stuff.
 
 Here's a video demo:
 
-https://github.com/user-attachments/assets/b64bbe2c-6094-4a8a-8a17-003b6261b636
-
+<img width="2226" height="2084" alt="demo" src="https://github.com/user-attachments/assets/4ef1a2f7-3e58-42b3-85eb-e5abae75ccf4" />
