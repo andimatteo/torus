@@ -4,8 +4,8 @@ This summer I'm taking a Computer Graphics Course @ Stanford and I thought:
 "why not implementing a rotating torus in the terminal in C?".
 
 I know, this might sound a bit [_amarcod_](https://www.treccani.it/vocabolario/amarcord/),
-but, after writing a ray-tracer in Python,
-doing some very simple things from scratch with no
+but, after writing a ray-tracer in Python that actually works in
+Blender, doing some very simple things from scratch with no
 dependecies feels relaxing. I felt I had so many concepts in mind
 and just wanted to express some of them.
 
