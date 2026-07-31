@@ -1,12 +1,13 @@
 #include <stdio.h>
 #include <math.h>
+#include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
 
 #define H 30
 #define W 60
-#define R 6.
-#define r 2.
+#define R 8.
+#define r 3.5
 
 typedef float f;
 typedef int i;
@@ -86,7 +87,7 @@ int main() {
                 if (l < 0)
                     continue;
 
-                c p = light[ (i)(l * 10 - 0.01f) % 10 ];
+                c p = light[ (i)(l * 10 - 0.01f + 1) % 10 ];
 
                 /* convert x, y, z to screen coordinates */
                 i xi = x + ((f)W / 2),
@@ -109,7 +110,7 @@ int main() {
         usleep(33000);
 
         /* increase rotation */
-        phi += M_PI / 32.;
+        phi += M_PI / 48.;
         theta += M_PI / 32.;
     }
 
