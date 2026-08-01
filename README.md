@@ -19,3 +19,12 @@ During the course might come back to fix some stuff.
 Here's a video demo:
 
 https://github.com/user-attachments/assets/2574e35b-26da-403f-beeb-ee58f514644c
+
+> I actually came back, fixed some rendering related stuff
+> Introduced FPS printing
+> implemented kitty graphics protocol support for printing
+> this is the updated demo:
+
+https://github.com/user-attachments/assets/9fb27247-5df0-4a9c-b964-b93905943299
+
+
